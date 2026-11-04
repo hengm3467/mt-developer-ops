@@ -1,0 +1,2762 @@
+{
+  "schema_version": 1,
+  "title": "开发者平台运营周报",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-04T22:32:10+08:00",
+  "data_through": "2026-11-04",
+  "selected_week": "2026-10-26",
+  "metrics": [
+    {
+      "key": "portal_pv",
+      "label": "主站 PV",
+      "unit": "次"
+    },
+    {
+      "key": "portal_uv",
+      "label": "主站周 UV",
+      "unit": "人"
+    },
+    {
+      "key": "resource_downloads",
+      "label": "资源下载记录",
+      "unit": "次"
+    },
+    {
+      "key": "registered_users",
+      "label": "新注册用户",
+      "unit": "人"
+    },
+    {
+      "key": "docs_pv",
+      "label": "文档站 PV",
+      "unit": "次"
+    },
+    {
+      "key": "docs_uv",
+      "label": "文档站周 UV",
+      "unit": "人"
+    },
+    {
+      "key": "blog_pv",
+      "label": "博客 PV",
+      "unit": "次"
+    },
+    {
+      "key": "blog_uv",
+      "label": "博客周 UV",
+      "unit": "人"
+    }
+  ],
+  "weeks": [
+    {
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "iso_week": "2026-W23",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 1958,
+          "status": "complete",
+          "observed_total": 1958,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 279.7143
+        },
+        "docs_pv": {
+          "value": 4984,
+          "status": "complete",
+          "observed_total": 4984,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 712.0
+        },
+        "blog_pv": {
+          "value": 521,
+          "status": "complete",
+          "observed_total": 521,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 74.4286
+        },
+        "registered_users": {
+          "value": 67,
+          "status": "complete",
+          "observed_total": 67,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 9.5714,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 155,
+          "status": "complete",
+          "observed_total": 155,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 22.1429,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1075,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1931,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 363,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "iso_week": "2026-W24",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2281,
+          "status": "complete",
+          "observed_total": 2281,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 325.8571
+        },
+        "docs_pv": {
+          "value": 7814,
+          "status": "complete",
+          "observed_total": 7814,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 1116.2857
+        },
+        "blog_pv": {
+          "value": 637,
+          "status": "complete",
+          "observed_total": 637,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 91.0
+        },
+        "registered_users": {
+          "value": 60,
+          "status": "complete",
+          "observed_total": 60,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 8.5714,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 188,
+          "status": "complete",
+          "observed_total": 188,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 26.8571,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1126,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2337,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 459,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "iso_week": "2026-W25",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 1630,
+          "status": "complete",
+          "observed_total": 1630,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 232.8571
+        },
+        "docs_pv": {
+          "value": 4657,
+          "status": "complete",
+          "observed_total": 4657,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 665.2857
+        },
+        "blog_pv": {
+          "value": 514,
+          "status": "complete",
+          "observed_total": 514,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 73.4286
+        },
+        "registered_users": {
+          "value": 48,
+          "status": "complete",
+          "observed_total": 48,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 6.8571,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 114,
+          "status": "complete",
+          "observed_total": 114,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 16.2857,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 960,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1847,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 342,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "iso_week": "2026-W26",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 1802,
+          "status": "complete",
+          "observed_total": 1802,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 257.4286
+        },
+        "docs_pv": {
+          "value": 5897,
+          "status": "complete",
+          "observed_total": 5897,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 842.4286
+        },
+        "blog_pv": {
+          "value": 628,
+          "status": "complete",
+          "observed_total": 628,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 89.7143
+        },
+        "registered_users": {
+          "value": 56,
+          "status": "complete",
+          "observed_total": 56,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 8.0,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 119,
+          "status": "complete",
+          "observed_total": 119,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 17.0,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1048,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2254,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 418,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-06-29",
+      "end": "2026-07-05",
+      "iso_week": "2026-W27",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2063,
+          "status": "complete",
+          "observed_total": 2063,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 294.7143
+        },
+        "docs_pv": {
+          "value": 6591,
+          "status": "complete",
+          "observed_total": 6591,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 941.5714
+        },
+        "blog_pv": {
+          "value": 531,
+          "status": "complete",
+          "observed_total": 531,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 75.8571
+        },
+        "registered_users": {
+          "value": 59,
+          "status": "complete",
+          "observed_total": 59,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 8.4286,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 172,
+          "status": "complete",
+          "observed_total": 172,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 24.5714,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1067,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2553,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 369,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-07-06",
+      "end": "2026-07-12",
+      "iso_week": "2026-W28",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 1844,
+          "status": "complete",
+          "observed_total": 1844,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 263.4286
+        },
+        "docs_pv": {
+          "value": 5442,
+          "status": "complete",
+          "observed_total": 5442,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 777.4286
+        },
+        "blog_pv": {
+          "value": 482,
+          "status": "complete",
+          "observed_total": 482,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 68.8571
+        },
+        "registered_users": {
+          "value": 50,
+          "status": "complete",
+          "observed_total": 50,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 7.1429,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 139,
+          "status": "complete",
+          "observed_total": 139,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 19.8571,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 944,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2267,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 315,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-07-13",
+      "end": "2026-07-19",
+      "iso_week": "2026-W29",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2028,
+          "status": "complete",
+          "observed_total": 2028,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 289.7143
+        },
+        "docs_pv": {
+          "value": 7891,
+          "status": "complete",
+          "observed_total": 7891,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 1127.2857
+        },
+        "blog_pv": {
+          "value": 533,
+          "status": "complete",
+          "observed_total": 533,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 76.1429
+        },
+        "registered_users": {
+          "value": 55,
+          "status": "complete",
+          "observed_total": 55,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 7.8571,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 189,
+          "status": "complete",
+          "observed_total": 189,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 27.0,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1043,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2477,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 349,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-07-20",
+      "end": "2026-07-26",
+      "iso_week": "2026-W30",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2786,
+          "status": "complete",
+          "observed_total": 2786,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 398.0
+        },
+        "docs_pv": {
+          "value": 6577,
+          "status": "complete",
+          "observed_total": 6577,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 939.5714
+        },
+        "blog_pv": {
+          "value": 492,
+          "status": "complete",
+          "observed_total": 492,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 70.2857
+        },
+        "registered_users": {
+          "value": 57,
+          "status": "complete",
+          "observed_total": 57,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 8.1429,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 201,
+          "status": "complete",
+          "observed_total": 201,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 28.7143,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1142,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2647,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 320,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-07-27",
+      "end": "2026-08-02",
+      "iso_week": "2026-W31",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2579,
+          "status": "complete",
+          "observed_total": 2579,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 368.4286
+        },
+        "docs_pv": {
+          "value": 6194,
+          "status": "complete",
+          "observed_total": 6194,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 884.8571
+        },
+        "blog_pv": {
+          "value": 726,
+          "status": "complete",
+          "observed_total": 726,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 103.7143
+        },
+        "registered_users": {
+          "value": 61,
+          "status": "complete",
+          "observed_total": 61,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 8.7143,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 124,
+          "status": "complete",
+          "observed_total": 124,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 17.7143,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1081,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2621,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 372,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-08-03",
+      "end": "2026-08-09",
+      "iso_week": "2026-W32",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2565,
+          "status": "complete",
+          "observed_total": 2565,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 366.4286
+        },
+        "docs_pv": {
+          "value": 6283,
+          "status": "complete",
+          "observed_total": 6283,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 897.5714
+        },
+        "blog_pv": {
+          "value": 681,
+          "status": "complete",
+          "observed_total": 681,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 97.2857
+        },
+        "registered_users": {
+          "value": 69,
+          "status": "complete",
+          "observed_total": 69,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 9.8571,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 101,
+          "status": "complete",
+          "observed_total": 101,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 14.4286,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1107,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2541,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 377,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-08-10",
+      "end": "2026-08-16",
+      "iso_week": "2026-W33",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2621,
+          "status": "complete",
+          "observed_total": 2621,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 374.4286
+        },
+        "docs_pv": {
+          "value": 6597,
+          "status": "complete",
+          "observed_total": 6597,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 942.4286
+        },
+        "blog_pv": {
+          "value": 501,
+          "status": "complete",
+          "observed_total": 501,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 71.5714
+        },
+        "registered_users": {
+          "value": 69,
+          "status": "complete",
+          "observed_total": 69,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 9.8571,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 101,
+          "status": "complete",
+          "observed_total": 101,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 14.4286,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1172,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2631,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 331,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-08-17",
+      "end": "2026-08-23",
+      "iso_week": "2026-W34",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2970,
+          "status": "complete",
+          "observed_total": 2970,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 424.2857
+        },
+        "docs_pv": {
+          "value": 7459,
+          "status": "complete",
+          "observed_total": 7459,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 1065.5714
+        },
+        "blog_pv": {
+          "value": 623,
+          "status": "complete",
+          "observed_total": 623,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 89.0
+        },
+        "registered_users": {
+          "value": 84,
+          "status": "complete",
+          "observed_total": 84,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 12.0,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 121,
+          "status": "complete",
+          "observed_total": 121,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 17.2857,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1226,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 3021,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 381,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-08-24",
+      "end": "2026-08-30",
+      "iso_week": "2026-W35",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 3108,
+          "status": "complete",
+          "observed_total": 3108,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 444.0
+        },
+        "docs_pv": {
+          "value": 6822,
+          "status": "complete",
+          "observed_total": 6822,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 974.5714
+        },
+        "blog_pv": {
+          "value": 565,
+          "status": "complete",
+          "observed_total": 565,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 80.7143
+        },
+        "registered_users": {
+          "value": 86,
+          "status": "complete",
+          "observed_total": 86,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 12.2857,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 153,
+          "status": "complete",
+          "observed_total": 153,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 21.8571,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1269,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2766,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 375,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-08-31",
+      "end": "2026-09-06",
+      "iso_week": "2026-W36",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2994,
+          "status": "complete",
+          "observed_total": 2994,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 427.7143
+        },
+        "docs_pv": {
+          "value": 5912,
+          "status": "complete",
+          "observed_total": 5912,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 844.5714
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 172,
+          "days": 6,
+          "basis": "daily_sum",
+          "missing_dates": [
+            "2026-09-06"
+          ],
+          "missing_days": 1,
+          "pending_days": 0,
+          "daily_average": 28.6667
+        },
+        "registered_users": {
+          "value": 81,
+          "status": "complete",
+          "observed_total": 81,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 11.5714,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 161,
+          "status": "complete",
+          "observed_total": 161,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 23.0,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1372,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2804,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 111,
+          "daily_uv_days": 6,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-09-07",
+      "end": "2026-09-13",
+      "iso_week": "2026-W37",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 4705,
+          "status": "complete",
+          "observed_total": 4705,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 672.1429
+        },
+        "docs_pv": {
+          "value": 9426,
+          "status": "complete",
+          "observed_total": 9426,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 1346.5714
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 8,
+          "days": 3,
+          "basis": "daily_sum",
+          "missing_dates": [
+            "2026-09-09",
+            "2026-09-11",
+            "2026-09-12",
+            "2026-09-13"
+          ],
+          "missing_days": 4,
+          "pending_days": 0,
+          "daily_average": 2.6667
+        },
+        "registered_users": {
+          "value": 103,
+          "status": "complete",
+          "observed_total": 103,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 14.7143,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 290,
+          "status": "complete",
+          "observed_total": 290,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 41.4286,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2665,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 5578,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 7,
+          "daily_uv_days": 3,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-09-14",
+      "end": "2026-09-20",
+      "iso_week": "2026-W38",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 3747,
+          "status": "complete",
+          "observed_total": 3747,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 535.2857
+        },
+        "docs_pv": {
+          "value": 6200,
+          "status": "complete",
+          "observed_total": 6200,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 885.7143
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 1,
+          "days": 1,
+          "basis": "daily_sum",
+          "missing_dates": [
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-18",
+            "2026-09-19",
+            "2026-09-20"
+          ],
+          "missing_days": 6,
+          "pending_days": 0,
+          "daily_average": 1.0
+        },
+        "registered_users": {
+          "value": 84,
+          "status": "complete",
+          "observed_total": 84,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 12.0,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 132,
+          "status": "complete",
+          "observed_total": 132,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 18.8571,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1884,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2996,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1,
+          "daily_uv_days": 1,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "iso_week": "2026-W39",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2721,
+          "status": "complete",
+          "observed_total": 2721,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 388.7143
+        },
+        "docs_pv": {
+          "value": 4743,
+          "status": "complete",
+          "observed_total": 4743,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 677.5714
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 2,
+          "days": 2,
+          "basis": "daily_sum",
+          "missing_dates": [
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-26",
+            "2026-09-27"
+          ],
+          "missing_days": 5,
+          "pending_days": 0,
+          "daily_average": 1.0
+        },
+        "registered_users": {
+          "value": 49,
+          "status": "complete",
+          "observed_total": 49,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 7.0,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 83,
+          "status": "complete",
+          "observed_total": 83,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 11.8571,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1474,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2282,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2,
+          "daily_uv_days": 2,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-09-28",
+      "end": "2026-10-04",
+      "iso_week": "2026-W40",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2269,
+          "status": "complete",
+          "observed_total": 2269,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 324.1429
+        },
+        "docs_pv": {
+          "value": 2883,
+          "status": "complete",
+          "observed_total": 2883,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 411.8571
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "missing",
+          "observed_total": null,
+          "days": 0,
+          "basis": "daily_sum",
+          "missing_dates": [
+            "2026-09-28",
+            "2026-09-29",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-03",
+            "2026-10-04"
+          ],
+          "missing_days": 7,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "registered_users": {
+          "value": 35,
+          "status": "complete",
+          "observed_total": 35,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 5.0,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 61,
+          "status": "complete",
+          "observed_total": 61,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 8.7143,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1068,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1542,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": null,
+          "daily_uv_days": 0,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "iso_week": "2026-W41",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2163,
+          "status": "complete",
+          "observed_total": 2163,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 309.0
+        },
+        "docs_pv": {
+          "value": 3399,
+          "status": "complete",
+          "observed_total": 3399,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 485.5714
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 294,
+          "days": 4,
+          "basis": "daily_sum",
+          "missing_dates": [
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07"
+          ],
+          "missing_days": 3,
+          "pending_days": 0,
+          "daily_average": 73.5
+        },
+        "registered_users": {
+          "value": 39,
+          "status": "complete",
+          "observed_total": 39,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 5.5714,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 80,
+          "status": "complete",
+          "observed_total": 80,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 11.4286,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1226,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1848,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 180,
+          "daily_uv_days": 4,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "iso_week": "2026-W42",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 3067,
+          "status": "complete",
+          "observed_total": 3067,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 438.1429
+        },
+        "docs_pv": {
+          "value": 5030,
+          "status": "complete",
+          "observed_total": 5030,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 718.5714
+        },
+        "blog_pv": {
+          "value": 717,
+          "status": "complete",
+          "observed_total": 717,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 102.4286
+        },
+        "registered_users": {
+          "value": 67,
+          "status": "complete",
+          "observed_total": 67,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 9.5714,
+          "comparison_group": "legacy_registered_users"
+        },
+        "resource_downloads": {
+          "value": 102,
+          "status": "complete",
+          "observed_total": 102,
+          "days": 7,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 14.5714,
+          "comparison_group": "legacy_resource_downloads"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1723,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2477,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 437,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "iso_week": "2026-W43",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 2977,
+          "status": "complete",
+          "observed_total": 2977,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 425.2857
+        },
+        "docs_pv": {
+          "value": 4634,
+          "status": "complete",
+          "observed_total": 4634,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 662.0
+        },
+        "blog_pv": {
+          "value": 601,
+          "status": "complete",
+          "observed_total": 601,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 85.8571
+        },
+        "registered_users": {
+          "value": null,
+          "status": "unverified",
+          "observed_total": 74,
+          "days": null,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null,
+          "comparison_group": "site_transition",
+          "coverage_note": "10/25 切换新网站；此值为旧表已记录量，当日新旧数据衔接待核对。"
+        },
+        "resource_downloads": {
+          "value": null,
+          "status": "unverified",
+          "observed_total": 171,
+          "days": null,
+          "basis": "record_count",
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null,
+          "comparison_group": "site_transition",
+          "coverage_note": "10/25 切换新网站；此值为旧表已记录量，当日新旧数据衔接待核对。"
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1594,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2477,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 350,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      },
+      "transition_week": true
+    },
+    {
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "iso_week": "2026-W44",
+      "calendar_complete": true,
+      "metrics": {
+        "portal_pv": {
+          "value": 6034,
+          "status": "complete",
+          "observed_total": 6034,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 862.0
+        },
+        "docs_pv": {
+          "value": 5208,
+          "status": "complete",
+          "observed_total": 5208,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 744.0
+        },
+        "blog_pv": {
+          "value": 1346,
+          "status": "complete",
+          "observed_total": 1346,
+          "days": 7,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 0,
+          "daily_average": 192.2857
+        },
+        "registered_users": {
+          "value": null,
+          "observed_total": 8,
+          "status": "unverified",
+          "days": null,
+          "reported_days": 7,
+          "basis": "registration_daily",
+          "comparison_group": "current_accounts",
+          "components": {
+            "mtid": 7,
+            "local": 1
+          },
+          "coverage_note": "用户已确认统计曾中断数天；具体日期及日表零值是否含中断占位待确认，当前展示已记录人数。新旧用户表范围有差异，暂不计算跨来源环比。",
+          "missing_days": null,
+          "missing_dates": [],
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "resource_downloads": {
+          "value": null,
+          "observed_total": 105,
+          "status": "partial",
+          "days": 4,
+          "basis": "download_and_wget_events",
+          "comparison_group": "current_resource_actions",
+          "components": {
+            "download_started": 72,
+            "wget_copied": 33
+          },
+          "coverage_note": "10/25 切换网站。旧日志截止 10/25，新日志首条为 10/29；10/26—10/28 缺失由文件衔接推定，具体中断日期待核对。发起下载和 wget 复制合计，保留分项。",
+          "missing_dates_inferred": true,
+          "missing_dates": [
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28"
+          ],
+          "missing_days": 3,
+          "pending_days": 0,
+          "daily_average": 26.25
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1622,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 2832,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 515,
+          "daily_uv_days": 7,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 0,
+          "daily_average": null
+        }
+      }
+    },
+    {
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "iso_week": "2026-W45",
+      "calendar_complete": false,
+      "metrics": {
+        "portal_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 2441,
+          "days": 3,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 5,
+          "daily_average": 813.6667
+        },
+        "docs_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 2731,
+          "days": 3,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 5,
+          "daily_average": 910.3333
+        },
+        "blog_pv": {
+          "value": null,
+          "status": "partial",
+          "observed_total": 309,
+          "days": 3,
+          "basis": "daily_sum",
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 5,
+          "daily_average": 103.0
+        },
+        "registered_users": {
+          "value": null,
+          "observed_total": 15,
+          "status": "unverified",
+          "days": null,
+          "reported_days": 3,
+          "basis": "registration_daily",
+          "comparison_group": "current_accounts",
+          "components": {
+            "mtid": 15,
+            "local": 0
+          },
+          "coverage_note": "用户已确认统计曾中断数天；具体日期及日表零值是否含中断占位待确认，当前展示已记录人数。新旧用户表范围有差异，暂不计算跨来源环比。",
+          "missing_days": null,
+          "missing_dates": [],
+          "pending_days": 5,
+          "daily_average": null
+        },
+        "resource_downloads": {
+          "value": null,
+          "observed_total": 98,
+          "status": "partial",
+          "days": 3,
+          "basis": "download_and_wget_events",
+          "comparison_group": "current_resource_actions",
+          "components": {
+            "download_started": 60,
+            "wget_copied": 38
+          },
+          "coverage_note": "10/25 切换网站。旧日志截止 10/25，新日志首条为 10/29；10/26—10/28 缺失由文件衔接推定，具体中断日期待核对。发起下载和 wget 复制合计，保留分项。",
+          "missing_dates_inferred": true,
+          "missing_dates": [],
+          "missing_days": 0,
+          "pending_days": 5,
+          "daily_average": 32.6667
+        },
+        "portal_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 672,
+          "daily_uv_days": 3,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 5,
+          "daily_average": null
+        },
+        "docs_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 1470,
+          "daily_uv_days": 3,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 5,
+          "daily_average": null
+        },
+        "blog_uv": {
+          "value": null,
+          "status": "missing",
+          "days": null,
+          "basis": "weekly_uv_required",
+          "daily_uv_sum": 155,
+          "daily_uv_days": 3,
+          "observed_total": null,
+          "missing_dates": [],
+          "missing_days": null,
+          "pending_days": 5,
+          "daily_average": null
+        }
+      }
+    }
+  ],
+  "sources": {
+    "portal": [
+      {
+        "name": "开发者访问数据-按日_20260601-20261102.csv",
+        "start": "2026-06-01",
+        "end": "2026-11-02",
+        "days": 155,
+        "granularity": "day",
+        "pv_days": 155,
+        "uv_days": 155,
+        "sha256": "2e01a47752ae6809be5ec51060485a06be9f27a01e57db9a1192da8373e14fdf"
+      },
+      {
+        "name": "开发者按天_20261006-20261104.csv",
+        "start": "2026-10-06",
+        "end": "2026-11-04",
+        "days": 30,
+        "granularity": "day",
+        "pv_days": 30,
+        "uv_days": 30,
+        "sha256": "df9ff9daff9f29848040f78244795f8be7d5b39a10737f2956597589faf7e709"
+      },
+      {
+        "name": "开发者按周数据_20260601-20261104.csv",
+        "start": "2026-06-01",
+        "end": "2026-11-04",
+        "days": 157,
+        "granularity": "day",
+        "pv_days": 157,
+        "uv_days": 157,
+        "sha256": "34da9158c8d27151a05c12480014393737a289b4f612bdc6a149731f02af4664",
+        "note": "文件名含“按周”，实际内容为 157 个逐日日期行；按日汇总 PV，不能据此填写周去重 UV。"
+      }
+    ],
+    "docs": [
+      {
+        "name": "技术文档按日数据_20260601-20261102.csv",
+        "start": "2026-06-01",
+        "end": "2026-11-02",
+        "days": 155,
+        "granularity": "day",
+        "pv_days": 155,
+        "uv_days": 155,
+        "sha256": "77926a90cdfea6d9e950b2355a94abf8fcf07b0e7acd0b74d5ec9af648bada53"
+      },
+      {
+        "name": "技术文档按日_20261006-20261104.csv",
+        "start": "2026-10-06",
+        "end": "2026-11-04",
+        "days": 30,
+        "granularity": "day",
+        "pv_days": 30,
+        "uv_days": 30,
+        "sha256": "b28ffb8022f4944af1a7e2e93426513f25f7c2840d25d82b1efd4a03863cb38b"
+      },
+      {
+        "name": "技术文档按天_20261006-20261104.csv",
+        "start": "2026-10-06",
+        "end": "2026-11-04",
+        "days": 30,
+        "granularity": "day",
+        "pv_days": 30,
+        "uv_days": 30,
+        "sha256": "9689804ce7c2279a3524d1bf5a0089bf6daa9b7e53f65aef77730212f7183e3b"
+      },
+      {
+        "name": "技术文档按周_20260601-20261104.csv",
+        "start": "2026-06-01",
+        "end": "2026-11-04",
+        "days": 157,
+        "granularity": "day",
+        "pv_days": 157,
+        "uv_days": 157,
+        "sha256": "d129c09ee3a34737cc43848b87fa55a6eedfb7c5176c99a522b496e85d7f51dd",
+        "note": "文件名含“按周”，实际内容为 157 个逐日日期行；按日汇总 PV，不能据此填写周去重 UV。"
+      }
+    ],
+    "blog": [
+      {
+        "name": "技术博客数据-按天-0601-1102.csv",
+        "start": "2026-06-01",
+        "end": "2026-11-02",
+        "days": 155,
+        "granularity": "day",
+        "pv_days": 129,
+        "uv_days": 129,
+        "sha256": "8874285172aa3734f906807b4c71994777f16b1ed1e6412af01bd6f7c63fc4c2"
+      },
+      {
+        "name": "博客按周数据_20260601-20261104.csv",
+        "start": "2026-06-01",
+        "end": "2026-11-04",
+        "days": 157,
+        "granularity": "day",
+        "pv_days": 131,
+        "uv_days": 131,
+        "sha256": "8a2d003c959cec90dfc1dc9eea482ea9fde3d1a2c82d5e355acd14ad3da4204a",
+        "note": "文件名含“按周”，实际内容为 157 个逐日日期行；按日汇总 PV，不能据此填写周去重 UV。"
+      }
+    ],
+    "registrations": {
+      "name": "开发者用户数据-20261027.xlsx",
+      "start": "2025-04-29",
+      "end": "2026-10-25"
+    },
+    "downloads": {
+      "name": "开发者下载日志-截止 20261025.xlsx",
+      "start": "2023-06-30",
+      "end": "2026-10-25"
+    },
+    "registration_daily": [
+      {
+        "name": "用户增长-2026-11-04.csv",
+        "start": "2026-10-14",
+        "end": "2026-11-04",
+        "sha256": "6ebd62217b10d54f74429615968bc3881a13160b8162f0e297bf4a764a2cfc8f"
+      }
+    ],
+    "download_events": [
+      {
+        "name": "下载数据 -20261104.csv",
+        "start": "2026-10-29",
+        "end": "2026-11-04",
+        "sha256": "7d7f6a842fc06200549a2a3f8f43a7ddd594f679b21be124c036fe339dad0786"
+      }
+    ]
+  },
+  "source_issues": [],
+  "coverage_policy": {
+    "registrations": {
+      "cutover": "2026-10-25",
+      "outage_dates_confirmed": false,
+      "missing_dates": [],
+      "note": "用户已确认统计曾中断数天；具体日期及日表零值是否含中断占位待确认，当前展示已记录人数。新旧用户表范围有差异，暂不计算跨来源环比。"
+    },
+    "downloads": {
+      "cutover": "2026-10-25",
+      "outage_dates_confirmed": false,
+      "missing_dates": [
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "note": "10/25 切换网站。旧日志截止 10/25，新日志首条为 10/29；10/26—10/28 缺失由文件衔接推定，具体中断日期待核对。发起下载和 wget 复制合计，保留分项。"
+    }
+  },
+  "site_cutover": "2026-10-25",
+  "baseline": {
+    "source": "开发者网站运营增长计划11-2-v5.docx",
+    "source_path": "MT-工作Wiki/status/开发者网站运营增长计划11-2-v5.docx",
+    "status": "V5 草稿中的挑战目标",
+    "start": "2026-08-03",
+    "end": "2026-10-25",
+    "days": 84,
+    "weeks": [
+      {
+        "start": "2026-08-03",
+        "portal_pv": 2565,
+        "resource_downloads": 101
+      },
+      {
+        "start": "2026-08-10",
+        "portal_pv": 2621,
+        "resource_downloads": 101
+      },
+      {
+        "start": "2026-08-17",
+        "portal_pv": 2970,
+        "resource_downloads": 121
+      },
+      {
+        "start": "2026-08-24",
+        "portal_pv": 3108,
+        "resource_downloads": 153
+      },
+      {
+        "start": "2026-08-31",
+        "portal_pv": 2994,
+        "resource_downloads": 161
+      },
+      {
+        "start": "2026-09-07",
+        "portal_pv": 4705,
+        "resource_downloads": 290
+      },
+      {
+        "start": "2026-09-14",
+        "portal_pv": 3747,
+        "resource_downloads": 132
+      },
+      {
+        "start": "2026-09-21",
+        "portal_pv": 2721,
+        "resource_downloads": 83
+      },
+      {
+        "start": "2026-09-28",
+        "portal_pv": 2269,
+        "resource_downloads": 61
+      },
+      {
+        "start": "2026-10-05",
+        "portal_pv": 2163,
+        "resource_downloads": 80
+      },
+      {
+        "start": "2026-10-12",
+        "portal_pv": 3067,
+        "resource_downloads": 102
+      },
+      {
+        "start": "2026-10-19",
+        "portal_pv": 2977,
+        "resource_downloads": 171
+      }
+    ],
+    "portal_pv": {
+      "total": 35907,
+      "daily": 427.4642857142857,
+      "target_daily": 854.9285714285714,
+      "growth": 1
+    },
+    "resource_downloads": {
+      "total": 1556,
+      "daily": 18.523809523809526,
+      "target_daily": 27.785714285714285,
+      "growth": 0.5
+    },
+    "download_comparable": false,
+    "download_note": "历史为资源下载分类且是否删除=0，排除文档下载分类；新版发起下载与 wget 复制分别保留，口径待对齐。"
+  },
+  "as_of": "2026-11-04",
+  "overlap_checks": [
+    {
+      "metric": "registered_users",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "legacy": 74,
+      "new_export": 1,
+      "note": "同一周新旧来源人数差异，统计范围待核；不自动覆盖旧值，不计算跨来源环比。"
+    }
+  ],
+  "source_corrections": 6,
+  "update_mode": "导出文件自动汇总",
+  "definitions": [
+    "统计周为周一至周日；按源文件日期汇总，历史导出未标明时区，未对原日期作时区平移。",
+    "PV 可逐日求和。缺少日期或源表为 -- 的周仅列有效记录，不直接补成 0。",
+    "周 UV 以统计平台整周报表值为准，当前日度 CSV 无法推导整周去重人数；每日 UV 累计仅作参考。",
+    "新注册按用户表创建时间、是否删除=0 的新增记录计数；账号唯一性及与当前账号体系的范围仍需核对。",
+    "10/25 切换新网站，所在周单独标记衔接待核对。10/26 起使用新日志的发起下载与 wget 复制合计，并保留分项；事件数不代表下载完成。",
+    "V5 目标沿用历史资源下载口径，命令复制单列。新版事件合计与历史基线口径有差异，暂不计算下载目标达成率。",
+    "源文件最后记录日期之后显示待补，不将未来或未提供的记录写成 0。",
+    "当前日期的数据视为日内累计；未来日期及尚未结束的当天与已过去但缺失的日期分别标注。",
+    "新增用户统计曾中断，未确认中断日期前保留已记录值，缺失天数标为待确认；新旧账号来源暂不直接比较。"
+  ]
+}
